@@ -1,0 +1,49 @@
+/* Aquí van los estilos generales del sitio */
+div.border1{
+	 border-style: solid;
+	 border-bottom-style: none;
+    border-color:#808080;
+   
+}
+div.border2{
+	 border-style: solid;
+	 border-top-style: none;
+    border-color:#808080;
+   
+}
+img.imag3{
+    width: 100%;
+}
+
+@media only screen and ( max-width: 576px ) {
+	#fa-mail{
+	display: none;
+	}
+	#mail-a{
+	display: none;
+	}
+	#fa-face{
+		display: none;
+	}
+	#fa-messenger{
+		display: none;
+	}
+
+}
+
+
+@media only screen and ( min-width: 768px ) {
+	
+}
+
+
+@media only screen and ( min-width: 992px ) {
+	
+ 
+	
+}
+
+
+@media only screen and ( min-width: 1200px ) {
+
+}
